@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+
+    <!-- Text to display in the list when there are no books found on a given topic [CHAR LIMIT=NONE] -->
+    <string name="no_books">No books available on this topic.</string>
+
+    <string name="no_internet">No internet connection.</string>
+
+    <string name="no_input">Enter your desired topic and hit search.</string>
+</resources>
